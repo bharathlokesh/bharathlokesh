@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Bharath Lokesh</h1>
 <h3 align="center">Artificial Intelligence & Machine Learning Student | AI Enthusiast | IoT Developer | Web Developer</h3>  My interests include AI, IoT, web development, and automation systems. I enjoy learning by building practical projects and continuously improving my technical skills.
 
+![](https://komarev.com/ghpvc/?username=BharathLokesh&label=PROFILE+VIEWS&color=brightgreen&style=plastic)
+
 ## 🎯 GOALS
 - 🚀 Build impactful AI and IoT projects.
 - 🌍 Contribute to open-source projects.
