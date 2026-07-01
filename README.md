@@ -1,10 +1,10 @@
 # 💫 About Me:
- Hello! 👋 I'm Bharath Lokesh<br><br>I am an Artificial Intelligence and Machine Learning student who enjoys solving real-world problems through technology. My interests include AI, IoT, web development, and automation systems. I enjoy learning by building practical projects and continuously improving my technical skills.🎯 Goals<br><br>* Build impactful AI and IoT projects<br>* Contribute to open-source projects<br>* Gain industry experience through internships<br>* Keep learning and growing as a developer<br><br>Thank you for visiting my GitHub profile!<br>
+ Hello! 👋 I'm Bharath Lokesh<br><br>I am an Artificial Intelligence and Machine Learning student who enjoys solving real-world problems through technology. My interests include AI, IoT, web development, and automation systems. I enjoy learning by building practical projects and continuously improving my technical skills.
+ 🎯 Goals<br><br>* Build impactful AI and IoT projects<br>* Contribute to open-source projects<br>* Gain industry experience through internships<br>* Keep learning and growing as a developer<br><br>Thank you for visiting my GitHub profile!<br>
 
- # 💻 TECH STACK
+ # 💻 Tech Stack
 
-## 🖥️ PROGRAMMING LANGUAGES
-
+## 🖥️ Programming Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
@@ -13,16 +13,14 @@
 
 ---
 
-## 🌐 WEB TECHNOLOGIES
-
+## 🌐 Web Technologies
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
 
 ---
 
-## ⚙️ FRAMEWORKS, PLATFORMS & LIBRARIES
-
+## ⚙️ Frameworks & Libraries
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white)
@@ -32,8 +30,7 @@
 
 ---
 
-## 🤖 AI / MACHINE LEARNING / DATA SCIENCE
-
+## 🤖 AI / Machine Learning / Data Science
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white)
@@ -44,79 +41,60 @@
 
 ---
 
-## 🗄️ DATABASES
-
+## 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoftsqlserver&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34)
 
 ---
 
-## ☁️ CLOUD & HOSTING
-
+## ☁️ Cloud & Hosting
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=00C7B7)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7)
 
 ---
 
-## 🔧 VERSION CONTROL & CI/CD
-
+## 🔧 Version Control & CI/CD
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
 
 ---
 
-## 🎨 DESIGN TOOLS
-
+## 🎨 Design Tools
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
 ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=plastic&logo=sketch&logoColor=black)
 
 ---
-
-## 🏢 TECHNOLOGY COMPANIES
-
-![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=plastic&logo=meta&logoColor=white)
+## 🏢 Technologies & Platforms
+![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=plastic&logo=Meta&logoColor=white)
 ![NVIDIA](https://img.shields.io/badge/NVIDIA-%2376B900.svg?style=plastic&logo=nvidia&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=plastic&logo=unity&logoColor=white)
 
 ---
 
-# 📊 GITHUB STATISTICS
+## 📊 GitHub Statistics
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=tokyonight&show_icons=true&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=tokyonight&show_icons=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
 
 ---
 
-# 🏆 TOP CONTRIBUTED REPOSITORIES
+## 🏆 Top Contributed Repositories
 
 ![](https://github-contributor-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
 
-# 👀 PROFILE VIEWS
-
-![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blue)
-
----
-
-# 🌐 CONNECT WITH ME
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+## 🌐 Connect with Me
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](YOUR_INSTAGRAM_URL)
-
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-
----
-
 ⭐ **Thanks for visiting my GitHub profile!**
-```
