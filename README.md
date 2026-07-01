@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bharath Lokesh</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=45&lines=WELCOME+TO+MY+GITHUB+PROFILE" alt="Typing SVG" />
+</p>
 <h3 align="center">Artificial Intelligence & Machine Learning Student | AI Enthusiast | IoT Developer | Web Developer</h3>  My interests include AI, IoT, web development, and automation systems. I enjoy learning by building practical projects and continuously improving my technical skills.
 
 ![](https://komarev.com/ghpvc/?username=BharathLokesh&label=PROFILE+VIEWS&color=brightgreen&style=plastic)
@@ -97,6 +100,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bharatth.07/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=bharathlokesh07@gmail.com)
 
-<marquee direction="right" behavior="scroll" scrollamount="6">
-⭐ <b>Thanks for visiting my GitHub profile!</b> ⭐
-</marquee>
+<h3 align="center">
+⭐ Thanks for visiting my GitHub profile! ⭐
+</h3>
