@@ -1,8 +1,15 @@
 <h1 align="center">Hi 👋, I'm Bharath Lokesh</h1>
 <h3 align="center">Artificial Intelligence & Machine Learning Student | AI Enthusiast | IoT Developer | Web Developer</h3>  My interests include AI, IoT, web development, and automation systems. I enjoy learning by building practical projects and continuously improving my technical skills.
- 🎯 Goals<br><br>* Build impactful AI and IoT projects<br>* Contribute to open-source projects<br>* Gain industry experience through internships<br>* Keep learning and growing as a developer<br><br>Thank you for visiting my GitHub profile!<br>
+## 🎯 GOALS
 
- # 💻 Tech Stack
+- 🚀 Build impactful AI and IoT projects.
+- 🌍 Contribute to open-source projects.
+- 💼 Gain industry experience through internships.
+- 📚 Continuously learn and improve as a developer.
+
+---
+
+ #  Tech Stack
 
 ## 🖥️ Programming Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
@@ -87,4 +94,6 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](YOUR_INSTAGRAM_URL)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-⭐ **Thanks for visiting my GitHub profile!**
+<marquee direction="right" behavior="scroll" scrollamount="6">
+⭐ <b>Thanks for visiting my GitHub profile!</b> ⭐
+</marquee>
