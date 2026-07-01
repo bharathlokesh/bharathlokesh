@@ -1,5 +1,5 @@
-# 💫 About Me:
- Hello! 👋 I'm Bharath Lokesh<br><br>I am an Artificial Intelligence and Machine Learning student who enjoys solving real-world problems through technology. My interests include AI, IoT, web development, and automation systems. I enjoy learning by building practical projects and continuously improving my technical skills.
+<h1 align="center">Hi 👋, I'm Bharath Lokesh</h1>
+<h3 align="center">Artificial Intelligence & Machine Learning Student | AI Enthusiast | IoT Developer | Web Developer</h3>  My interests include AI, IoT, web development, and automation systems. I enjoy learning by building practical projects and continuously improving my technical skills.
  🎯 Goals<br><br>* Build impactful AI and IoT projects<br>* Contribute to open-source projects<br>* Gain industry experience through internships<br>* Keep learning and growing as a developer<br><br>Thank you for visiting my GitHub profile!<br>
 
  # 💻 Tech Stack
@@ -18,7 +18,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
 
 ---
-## ⚙️ Frameworks & Libraries
+## ⚙️ Frameworks
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white)
